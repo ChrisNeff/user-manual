@@ -4,10 +4,10 @@ This guide breaks down the concept of a Personal User Manual (also known as a "W
 
 ## What This Guide Covers
 
-### [1. What is a Personal User Manual?](01-what-is-a-manager-readme.md)
+### [1. What is a Personal User Manual?](01-what-is-a-personal-user-manual.md)
 Understand the fundamental concept, origins, and purpose of a Personal User Manual. Learn what it is, what it isn't, and why it's become a popular tool for effective collaboration.
 
-### [2. Why Create a Personal User Manual?](02-why-create-a-manager-readme.md)
+### [2. Why Create a Personal User Manual?](02-why-create-a-personal-user-manual.md)
 Explore the benefits for both you and your collaborators, including faster rapport building, clearer expectations, building trust, and continuous improvement.
 
 ### [3. What to Include in Your Personal User Manual](03-what-to-include.md)
@@ -23,8 +23,8 @@ Real examples, best practices for writing authentically, sample structures, and 
 
 If you're new to Personal User Manuals:
 
-1. **Start with the basics**: Read [What is a Personal User Manual?](01-what-is-a-manager-readme.md) to understand the concept
-2. **Understand the value**: Review [Why Create a Personal User Manual?](02-why-create-a-manager-readme.md) to see if it's right for you
+1. **Start with the basics**: Read [What is a Personal User Manual?](01-what-is-a-personal-user-manual.md) to understand the concept
+2. **Understand the value**: Review [Why Create a Personal User Manual?](02-why-create-a-personal-user-manual.md) to see if it's right for you
 3. **Pick your sections**: Use [What to Include](03-what-to-include.md) as a menu—choose what's relevant to you
 4. **See examples**: Check out [Examples and Best Practices](05-examples-and-best-practices.md) for inspiration
 5. **Share and iterate**: Follow the guidance in [How to Share and Use](04-how-to-share-and-use.md)
