@@ -1,29 +1,29 @@
-# What to Include in Your Manager README
+# What to Include in Your Personal User Manual
 
-Your Manager README should be personal and authentic to you. Here are key sections to consider including.
+Your Personal User Manual should be personal and authentic to you. Here are key sections to consider including.
 
-## Your Role and Responsibilities
+## Your Role and Expertise
 
-### What You're Here to Do
-- Your primary responsibilities as a manager
+### What You Do
+- Your primary responsibilities and focus areas
 - What success looks like for you
-- How you define your role in the team's success
+- Your areas of expertise and experience
 
-### What You're NOT Here to Do
-- Clarify what falls outside your role
-- Help your team understand when to go to others
-- Set realistic boundaries
+### What You're NOT an Expert In
+- Clarify areas where you're still learning
+- Help others understand when to consult other experts
+- Set realistic expectations about your capabilities
 
-## Your Management Philosophy
+## Your Working Philosophy
 
 ### Your Core Values
 - What principles guide your decision-making
-- What you believe about people and teams
+- What you believe about work and collaboration
 - What you optimize for (e.g., growth, impact, innovation)
 
-### Your Leadership Style
-- Are you hands-on or hands-off?
-- How do you balance autonomy with guidance?
+### Your Working Style
+- Are you hands-on or more strategic?
+- How do you balance autonomy with collaboration?
 - What's your approach to problem-solving?
 
 ## Communication Preferences
@@ -34,19 +34,19 @@ Your Manager README should be personal and authentic to you. Here are key sectio
 - When to use which channel
 
 ### Meeting Practices
-- Your approach to 1:1s (frequency, format, agenda)
-- Team meeting structure
-- How you run meetings
+- Your approach to 1:1s and check-ins (frequency, format, agenda)
+- How you prefer group discussions
+- How you prepare for and run meetings
 
 ### Availability
 - Normal working hours
 - Best times to reach you
-- What to do in emergencies
+- What to do for urgent matters
 
 ## Feedback Philosophy
 
 ### How You Give Feedback
-- Your approach to praise and criticism
+- Your approach to praise and constructive criticism
 - How often you provide feedback
 - Your delivery style
 
@@ -55,12 +55,12 @@ Your Manager README should be personal and authentic to you. Here are key sectio
 - How you prefer to receive it (public vs. private)
 - How you react to feedback (and what you're working on)
 
-## Known Weaknesses and Quirks
+## Known Quirks and Growth Areas
 
 ### Your Blind Spots
 - Areas where you know you struggle
 - What you're actively working on improving
-- How your team can help you
+- How others can help you
 
 ### Your Pet Peeves
 - Things that frustrate you (within reason)
@@ -69,26 +69,26 @@ Your Manager README should be personal and authentic to you. Here are key sectio
 
 ### Your Quirks
 - Unusual working habits
-- Communication patterns team members might notice
+- Communication patterns people might notice
 - Things that might seem odd but are just how you operate
 
-## What You Expect from Your Team
+## What You Value in Collaboration
 
-### Non-Negotiables
-- Core behaviors and values you require
-- Standards for work quality and professionalism
-- Team culture expectations
+### Important to You
+- Core behaviors and values you appreciate
+- Standards for collaboration quality
+- Working relationship expectations
 
-### How You Measure Success
-- What metrics matter to you
-- What you're evaluating in performance reviews
+### How You Define Success
+- What outcomes matter to you
+- What you're evaluating when working together
 - What "good work" looks like to you
 
 ## Work-Life Philosophy
 
 ### Your Approach to Work-Life Balance
 - Your own boundaries
-- What you expect from your team
+- What you believe about sustainable work
 - How you think about time off and flexibility
 
 ### Outside of Work
@@ -96,17 +96,17 @@ Your Manager README should be personal and authentic to you. Here are key sectio
 - What helps you recharge
 - What's important to you outside work
 
-## Career Development
+## Personal Growth
 
-### How You Approach Growth
-- Your philosophy on career development
-- How often you discuss career goals
-- What support you provide for learning
+### How You Approach Learning
+- Your philosophy on personal development
+- How you pursue growth opportunities
+- What support you appreciate for learning
 
-### Your Expectations
-- What initiative you expect from team members
-- How you handle growth opportunities
-- What you need from them to help them grow
+### What You're Working On
+- Current areas of focus for improvement
+- Skills or habits you're developing
+- What you're trying to change about yourself
 
 ## Logistics
 
@@ -123,14 +123,14 @@ Your Manager README should be personal and authentic to you. Here are key sectio
 ## Important Notes
 
 ### Keep It Real
-- Be honest about your weaknesses
+- Be honest about your quirks and limitations
 - Don't make promises you can't keep
 - Share what's genuinely helpful, not what sounds good
 
 ### Keep It Reasonable
 - Don't be too prescriptive
 - Leave room for flexibility and growth
-- Focus on what helps your team work with you
+- Focus on what helps others work with you
 
 ### Keep It Updated
 - Review and update regularly
