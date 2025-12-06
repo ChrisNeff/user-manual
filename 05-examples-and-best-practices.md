@@ -99,7 +99,7 @@ When explaining your preferences, give concrete examples.
 
 ### Comprehensive README
 
-Include all sections from the "What to Include" document, but keep each section concise.
+Include all sections from the [What to Include](03-what-to-include.md) document, but keep each section concise.
 
 ## Examples of Good Opening Statements
 
